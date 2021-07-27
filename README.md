@@ -1,6 +1,6 @@
 Responsible-Data-Journalism-amid-COVID-19
 ===
-Covid-19 Timeseries Dataset
+Covid-19 Timeseries Dataset (Last updated 2021/07/27)
 ---
 I collected the data on 7/24/2021 and 7/25/2021 and compiled this covid-19 time series dataset. The following is a detailed introduction for each data set. (The latest update time of the data is around 2021/7/22).  
 
