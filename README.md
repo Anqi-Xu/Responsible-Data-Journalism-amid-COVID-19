@@ -20,6 +20,10 @@ I collected the data on 7/24/2021 and 7/25/2021 and compiled this covid-19 time 
 ### Additional notes
 * In the process of collecting data, I found that for unknown reasons, some countries lack certain kind of data (for example, China did not disclose data on the number of covid-19 hospitalizations, etc.).
 * Due to the limited time, I only selected data from some representative countries. I can continue to collect data from other countries later if necessary.
-===
+
+---
 Canada cases and vaccinations predictions (Last updated 2021/08/03)
 ---
+I tested nine models to predict the cumulative number of cases and vaccinations in Canada in July, and came to the following conclusions. For the cumulative number of cases, the SARIMA Model performs best. For the number of vaccinations, Holt's Linear Regression performs best. Here are the two jupter notebooks:
+* Canada cumulative cases prediction: 
+* Canada vaccinations prediction:
