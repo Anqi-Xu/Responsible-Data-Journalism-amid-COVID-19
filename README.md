@@ -20,3 +20,6 @@ I collected the data on 7/24/2021 and 7/25/2021 and compiled this covid-19 time 
 ### Additional notes
 * In the process of collecting data, I found that for unknown reasons, some countries lack certain kind of data (for example, China did not disclose data on the number of covid-19 hospitalizations, etc.).
 * Due to the limited time, I only selected data from some representative countries. I can continue to collect data from other countries later if necessary.
+===
+Canada cases and vaccinations predictions (Last updated 2021/08/03)
+---
