@@ -9,6 +9,7 @@ Canada cases and vaccinations predictions (Last updated 2021/08/09)
 1. For Holt's Linear Model and Holt's Winter Model, Python's statsmodel cannot output the confidence intervals of the two models(I have checked the statsmodel offical guide.).
 2. For other regression models such as linear regression model, their prediction accuracies are quite poor(It can be seen from the experiment last week that their RMSE are relatively high.).
 3. Linear regression has the basic assumption that the independent variables are independent of each other, but I think daily cumulative cases and vaccinations cannot meet this assumption.
+---
 Canada cases and vaccinations predictions (Last updated 2021/08/03)
 ---
 * I tested nine models to predict the cumulative number of cases and vaccinations in Canada in July, and came to the following conclusions. For the cumulative number of cases, the SARIMA Model performs best. For the number of vaccinations, Holt's Linear Regression performs best. 
