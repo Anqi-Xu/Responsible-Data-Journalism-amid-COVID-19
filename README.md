@@ -7,7 +7,7 @@ Canada cases and vaccinations predictions (Last updated 2021/08/09)
 * For vaccinations,I used timeseries data from 2020/12/14 to 2021/1/31 to predict data of next month(Feb 2021).
 * The reason why I did not use the other 5 models I used last week：
 1. For Holt's Linear Model and Holt's Winter Model, Python's statsmodel cannot output the confidence intervals of results from the two models(I have checked the statsmodel offical guide.).
-2. For other regression models such as linear regression model, their prediction accuracies are quite poor(It can be seen from the experiment last week that their RMSE are relatively high.).
+2. For other three regression models such as linear regression model, their prediction accuracies are quite poor(It can be seen from the experiment last week that their RMSE are relatively high.).
 3. Linear regression has the basic assumption that the independent variables are independent of each other, but I think daily cumulative cases and vaccinations cannot meet this assumption.
 ---
 Canada cases and vaccinations predictions (Last updated 2021/08/03)
