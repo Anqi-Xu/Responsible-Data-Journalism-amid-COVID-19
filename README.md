@@ -1,6 +1,6 @@
 Responsible-Data-Journalism-amid-COVID-19
 ===
-Canada cases and vaccinations predictions (Last updated 2021/08/09)
+Canada cases and vaccinations predictions (Last updated 2021/08/13)
 ---
 * I used timeseries data for cumulative cases and vaccinations in Canada to predict three consecutive months, and made three predcitions showed in the same plot for each model.
 * For cumulative cases, I used timeseries data to predict date of April 2020, May 2020, and June 2020.
