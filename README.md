@@ -1,5 +1,11 @@
 Responsible-Data-Journalism-amid-COVID-19
 ===
+2021/08/17 Update
+---
+* I added a trendline to the existing plots that shows cumulative RMSE.
+* To compare the RMSE among three months, I normalized the error and added another kind of plot to show the differences.
+* I simplified the python code by using for loops and arrays.
+
 Canada cases and vaccinations predictions (Last updated 2021/08/13)
 ---
 * I used timeseries data for cumulative cases and vaccinations in Canada to predict three consecutive months, and made three predcitions showed in the same plot for each model.
