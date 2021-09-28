@@ -1,9 +1,9 @@
 Responsible-Data-Journalism-amid-COVID-19
 ===
-2021/09/23 Update
+2021/09/28 Update
 ---
-You can try the interactive plot using binder by clicking the button：
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anqi-Xu/Responsible-Data-Journalism-amid-COVID-19/main?filepath=Visualization%20of%20Canada%20cumulative%20cases%20prediction.ipynb)
+You can try the interactive plot in Colab Notebooks by clicking the button：
+https://drive.google.com/file/d/1n6GsXXbffj19VhVnuXb_sEI6oEkCZKW3/view?usp=sharing
 
 2021/08/17 Update
 ---
