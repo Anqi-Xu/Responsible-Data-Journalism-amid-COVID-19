@@ -2,7 +2,7 @@ Responsible-Data-Journalism-amid-COVID-19
 ===
 2021/09/28 Update
 ---
-You can try the interactive plot in Colab Notebooks by clicking the button：
+You can try the interactive plot in Colab Notebooks in this link：
 https://drive.google.com/file/d/1n6GsXXbffj19VhVnuXb_sEI6oEkCZKW3/view?usp=sharing
 
 2021/08/17 Update
