@@ -1,5 +1,10 @@
 Responsible-Data-Journalism-amid-COVID-19
 ===
+2023/01/16 Update
+---
+Applied the machine learning algorithms to the covid-19 data in the US.
+
+
 2021/09/28 Update
 ---
 You can try the interactive plot in Colab Notebooks in this link：
