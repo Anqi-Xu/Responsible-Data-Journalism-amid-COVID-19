@@ -2,7 +2,7 @@ Responsible-Data-Journalism-amid-COVID-19
 ===
 2023/01/16 Update
 ---
-Applied the machine learning algorithms to the covid-19 data in the US. See the jupyter notebook in this link: [link](https://github.com/Anqi-Xu/Responsible-Data-Journalism-amid-COVID-19/blob/main/Forecasts%20of%20COVID-19%20Cases%20in%20the%20US.ipynb)
+Applied the machine learning algorithms to the covid-19 data in the US. See the jupyter notebook in this [link](https://github.com/Anqi-Xu/Responsible-Data-Journalism-amid-COVID-19/blob/main/Forecasts%20of%20COVID-19%20Cases%20in%20the%20US.ipynb).
 
 
 2021/09/28 Update
